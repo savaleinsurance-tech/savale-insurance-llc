@@ -6,3 +6,4 @@ export default function Home() {
     padding: "10px 16px",
     textDecoration: "none",
     display: "inline-block"
+  });
